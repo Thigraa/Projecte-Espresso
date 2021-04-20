@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">testing</string>
+    <string name="main_activity_title">Main Activity Title</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="USER_TO_BE_TYPED">PepeBotella</string>
+    <string name="PASSWORD_TO_BE_TYPED">PEPEelPEPE</string>
+    <string name="welcome_back">Welcome Back</string>
+</resources>
